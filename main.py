@@ -60,11 +60,11 @@ while ( True ) :
         continue
     if cmd == 'Carston' :
         print('----------')
-        print('-----WORKS AT SEVEN-PEAKS')
+        print('----------')
         print('-----HAS CURLY HAIR')
         print('-----NEEDS A WATCH')
         print('-----HAS GLASSES')
-        print('-----WEARS BRACES')
+        print('----------')
         print('----------')
         continue
     if cmd == 'Kennon' :
